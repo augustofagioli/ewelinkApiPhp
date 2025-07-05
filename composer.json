@@ -1,0 +1,8 @@
+{
+    "name": "augustofagioli/ewelinkapiphp",
+    "description": "Ewelink API php by Pawel",
+    "require": {
+        "php": ">=7.4"
+    },
+    "license": "GPL-3.0-or-later"
+}
