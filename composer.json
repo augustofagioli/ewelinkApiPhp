@@ -1,5 +1,5 @@
 {
-    "name": "pjanisio/ewelink-api-php",
+    "name": "augustofagioli/ewelinkapiphp",
     "description": "API connector for Sonoff/eWeLink devices",
     "type": "library",
     "license": "MIT",
@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pjanisio\\EwelinkApiPhp\\": "src/"
+            "augustofagioli\\ewelinkapiphp\\": "src/"
         }
     }
 }
